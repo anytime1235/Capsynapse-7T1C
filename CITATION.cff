@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Capsynapse-7T1C: AIHWKIT device model and training simulations for the variation-resilient 7T1C capacitive synapse"
+type: software
+authors:
+  - family-names: Park
+    given-names: Jaeweon
+repository-code: "https://github.com/anytime1235/Capsynapse-7T1C"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Variation-Resilient Oxide-Semiconductor Capacitive Synaptic Device for Reliable Training in Analog In-Memory Computing"
+  journal: "Device"
+  year: 2026
+  authors:
+    - family-names: Won
+      given-names: Jongun
+    - family-names: Kang
+      given-names: Jaehyeon
+    - family-names: Park
+      given-names: Jaeweon
+    - family-names: Joe
+      given-names: Changhoon
+    - family-names: Roh
+      given-names: Youngchae
+    - family-names: Kang
+      given-names: Minil
+    - family-names: Lee
+      given-names: Hyung-Min
+    - family-names: Kim
+      given-names: Sangbum

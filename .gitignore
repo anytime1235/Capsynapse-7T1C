@@ -1,0 +1,6 @@
+.venv/
+.aihwkit-src/
+__pycache__/
+data/cifar
+figures/
+results_rerun/
